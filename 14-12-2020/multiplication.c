@@ -5,11 +5,10 @@
  {
  int a,b,c;
 
- printf("enter the value of a");
- scanf("%d",&a);
- printf("enter the value of b");
- scanf("%d",&b);
- c=a*b;
- printf("value of product %d",c);
+printf("enter the value of a");
+scanf("%d",&a);
+printf("enter the value of b");
+scanf("%d",&b);
+printf("value of product %d",a*b);
 getch();
 }
