@@ -1,4 +1,4 @@
-///swapping no ///
+///swapping_no ///
 #include<stdio.h>
 int main()
 {
